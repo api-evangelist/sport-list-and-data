@@ -1,0 +1,32 @@
+aid: sport-list-and-data
+name: Sport List & Data
+description: "List of and resources related to sports"
+url: https://developers.decathlon.com/products/sports
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Sports & Fitness"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Sports And Fitness
+  - Public APIs
+apis:
+  - name: Sport List & Data
+    description: "List of and resources related to sports"
+    humanURL: https://developers.decathlon.com/products/sports
+    baseURL: https://developers.decathlon.com/products/sports
+    tags:
+      - Sports And Fitness
+    properties:
+      - type: Documentation
+        url: https://developers.decathlon.com/products/sports
+common:
+  - type: Website
+    url: https://developers.decathlon.com/products/sports
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

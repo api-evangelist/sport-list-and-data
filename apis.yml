@@ -40,7 +40,8 @@ apis:
   - name: Sport List & Data
     description: "List of and resources related to sports"
     humanURL: https://developers.decathlon.com/products/sports
-    tags:
+    tags: []
+    tags_raw:
       - Sports And Fitness
     properties:
       - type: Documentation
